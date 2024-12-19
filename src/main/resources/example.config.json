@@ -1,0 +1,9 @@
+{
+  "bot": {
+      "token": "xxx"
+  },
+  "rest-api": {
+    "port": 8080,
+    "jwt-secret": "some-secret"
+  }
+}
